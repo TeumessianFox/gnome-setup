@@ -3,9 +3,9 @@
 ## GNOME Tweaks
 Install GNOME tweak tool
 
-### Appearance
-#### Application theme
+## Appearance
+### Application theme
 Equilux-compact: https://github.com/ddnexus/equilux-theme
 
-#### Icon theme
+### Icon theme
 Papirus-Dark: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
