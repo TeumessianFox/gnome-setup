@@ -1,6 +1,5 @@
-# GNOME Setup
+# [GNOME](https://wiki.gnome.org/Home) Tweaks
 
-## [GNOME](https://wiki.gnome.org/Home) Tweaks
 Install [GNOME tweak tool](https://wiki.gnome.org/Apps/Tweaks)
 
 ## Appearance
