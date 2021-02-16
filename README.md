@@ -15,3 +15,6 @@ Papirus-Dark: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
 
 ## Extensions
 Activate https://extensions.gnome.org/ for adding plugins over the web
+
+### Removable Drive Menu
+https://extensions.gnome.org/extension/7/removable-drive-menu/
