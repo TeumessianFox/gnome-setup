@@ -18,3 +18,6 @@ Activate https://extensions.gnome.org/ for adding plugins over the web
 
 ### Removable Drive Menu
 https://extensions.gnome.org/extension/7/removable-drive-menu/
+
+### Wallpaper Changer
+https://extensions.gnome.org/extension/1225/wallpaper-changer/
